@@ -24,7 +24,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/real-time-tshirt-color-detection.git
+    git clone https://github.com/AbdulRehman-git/real-time-tshirt-color-detection.git
     cd real-time-tshirt-color-detection
     ```
 
