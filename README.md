@@ -25,11 +25,14 @@ To set up this project locally, follow these steps:
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/AbdulRehman-git/real-time-tshirt-color-detection-yolov8.git
+    ```
+    Move to cloned folder
+    ```bash
     cd real-time-tshirt-color-detection
     ```
 
 2. **Install Dependencies:**
-    Make sure you have Python installed, then install the required libraries:
+    Make sure you have Python 3.9 installed, then install the required libraries:
     ```bash
     pip install ultralytics opencv-python-headless matplotlib
     ```
