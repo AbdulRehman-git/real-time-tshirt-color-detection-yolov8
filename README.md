@@ -62,5 +62,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or suggestions, please contact [your email](mailto:youremail@example.com).
+For questions or suggestions, please contact 
+- [![Email](https://img.shields.io/badge/Gmail-Contact-red)](mailto:inboxx.abdulrehman@gamil.com)
+  - Feel free to reach out via email at inboxx.abdulrehman@gamil.com.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://www.linkedin.com/in/abdul-rehman-052292271)
+  - Connect with me on LinkedIn for professional updates and discussions.
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/AbdulRehman_twt)
+  - Follow me on Twitter for the latest in data science trends and insights.
 
